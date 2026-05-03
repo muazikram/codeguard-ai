@@ -1,0 +1,7 @@
+report.html
+report.json
+report.csv
+*.pyc
+__pycache__/
+.DS_Store
+codeguard_temp_*
